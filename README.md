@@ -7,4 +7,3 @@ Importe diferentes librerias para que me puedan ayudar, como la de image, color 
 ![image](https://github.com/kenyba15/tarea/assets/168501498/94f304a4-e054-421a-b06b-2d6ee2e4d212)
 ![image](https://github.com/kenyba15/tarea/assets/168501498/0b6dcd2d-7d52-4ec1-a1be-022b02196194)
 
-aaaa
